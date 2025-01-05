@@ -2,6 +2,13 @@
 
 All notable changes to the "Code ComfyUI" extension will be documented in this file.
 
+## [1.0.1] - 2024-01-05
+
+### Added
+
+- Extension icon
+- Link to install from VS Code Marketplace
+
 ## [1.0.0] - 2024-01-05
 
 ### Added

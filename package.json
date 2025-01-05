@@ -2,7 +2,7 @@
   "name": "code-comfyui",
   "displayName": "Code ComfyUI",
   "description": "ComfyUI rendered for your code editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "piiq",
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
       }
     ]
   },
+  "icon": "./images/icon.png",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",

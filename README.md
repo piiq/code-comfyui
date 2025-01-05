@@ -2,6 +2,8 @@
 
 Interact with ComfyUI directly within your code editor.
 
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/piiq.code-comfyui?label=Install%20from%20VS%20Marketplace&color=blue&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=piiq.code-comfyui)
+
 ![ComfyUI in Cursor](images/preview.png)
 
 ## Who is this for?
