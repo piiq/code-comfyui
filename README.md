@@ -4,6 +4,12 @@ Interact with ComfyUI directly within your code editor.
 
 ![ComfyUI in Cursor](images/preview.png)
 
+## Who is this for?
+
+Are you a developer or technical artist who works with both ComfyUI and code? Tired of constantly switching between windows – your code editor, ComfyUI interface, and terminal windows? This extension is for you!
+
+Code ComfyUI brings your creative and technical workflows together in one place. Keep working in the comfort of your favorite code editor while having instant access to ComfyUI right there in a panel. No more context switching, no more window juggling – just seamless integration of your AI art generation and development workflows.
+
 ## Features
 
 - 🎨 Interact with ComfyUI directly in your code editor (VS Code, Cursor, Theia, etc.)
